@@ -16,6 +16,17 @@ academic dishonesty with the grades.  The school board has requested after discu
 
 ### Quick Resulting Data:
 
+#### Reading Scores by Grade:
+
+![This is an image](https://github.com/paveenB/School_District_Analysis/blob/main/Resources/Reading_Scores.png)
+
+#### Math Scores by Grade:
+
+![This is an image](https://github.com/paveenB/School_District_Analysis/blob/main/Resources/Math_Scores.png)
+
+#### Overall Average by District:
+
+![This is an image](https://github.com/paveenB/School_District_Analysis/blob/main/Resources/Type_Scores.png)
 
 ## Summary
 
